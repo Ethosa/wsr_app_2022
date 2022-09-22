@@ -1,0 +1,15 @@
+C:\Users\wsr\source\repos\app\bin\Debug\app.exe.config
+C:\Users\wsr\source\repos\app\bin\Debug\app.exe
+C:\Users\wsr\source\repos\app\bin\Debug\app.pdb
+C:\Users\wsr\source\repos\app\obj\Debug\app.csprojAssemblyReference.cache
+C:\Users\wsr\source\repos\app\obj\Debug\components\Login.g.cs
+C:\Users\wsr\source\repos\app\obj\Debug\App.g.cs
+C:\Users\wsr\source\repos\app\obj\Debug\app_MarkupCompile.cache
+C:\Users\wsr\source\repos\app\obj\Debug\app_MarkupCompile.lref
+C:\Users\wsr\source\repos\app\obj\Debug\components\Login.baml
+C:\Users\wsr\source\repos\app\obj\Debug\app.g.resources
+C:\Users\wsr\source\repos\app\obj\Debug\app.Properties.Resources.resources
+C:\Users\wsr\source\repos\app\obj\Debug\app.csproj.GenerateResource.cache
+C:\Users\wsr\source\repos\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+C:\Users\wsr\source\repos\app\obj\Debug\app.exe
+C:\Users\wsr\source\repos\app\obj\Debug\app.pdb
